@@ -17,15 +17,16 @@ h2{
     margin-bottom:0;
     padding:5px 20px;
 }
+p:first-letter{
+　　font-size:10.25em;
+}
 p{
     font-size: 0.8em;
     color:#555555;
     background-color:#eee8aa;
-     font-weight:900;
+    font-weight:900;
 }
-p:first-letter{
-　　font-size:10.25em;
-}
+
 #read{
 　　border-top:#e9967a 1px dotted;
     text-align: center;
