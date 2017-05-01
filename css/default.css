@@ -34,3 +34,8 @@ li{
     font-size: 0.8em;
     color:#9acd32;
 }
+address{
+    font-size: 0.75em;
+    font-style: italic;
+}
+
