@@ -4,11 +4,11 @@ body{
 }
 h1{
     font-size: 1.75em;
-    color:#00bfff;
+    color:#555555;
 }
 h2{
     font-size: 1.25em;
-    color:#d2691e;
+    color:#555555;
     border:#e9967a 1px dotted;
     border-left:#20b2aa 10px solid;
     margin-bottom:0;
