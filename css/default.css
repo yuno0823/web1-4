@@ -20,9 +20,14 @@ p{
     background-color:#eee8aa;
 }
 #lead{
-border-top:#A3A275 1px dotted
-text-align: center;
+border-top:#A3A275 1px dotted;
+    text-align: center;
 }
+.greeting{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+}
+
 li{
     font-size: 0.8em;
     color:#9acd32;
