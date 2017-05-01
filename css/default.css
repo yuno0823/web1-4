@@ -23,8 +23,8 @@ p{
     background-color:#eee8aa;
     font-weight:900;
 }
-p:first-letter{
-　　font-size: 100px;
+span:first-letter{
+　　font-size:300%;
 }
 #read{
 　　border-top:#e9967a 1px dotted;
