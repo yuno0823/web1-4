@@ -31,10 +31,10 @@ border-top:#e9967a 1px dotted;
     border-top: #e9967a 1px dotted;
     text-align: center;
 }
-#read:first-letter{
+#read::first-letter{
 font-size:1.25;
 }
-.greeting:first-letter{
+.greeting::first-letter{
 font-size:1.25;
 }
 li{
