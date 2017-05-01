@@ -1,13 +1,20 @@
 @charset "UTF-8"; 
+body{
+    background-color:#f5f5dc;
+}
 h1{
     font-size: 1.75em;
+    color:#00bfff;
 }
 h2{
     font-size: 1.25em;
+    color:#d2691e;
 }
 p{
     font-size: 0.8em;
+    color:#da70d6;
 }
 li{
     font-size: 0.8em;
+    color:#9acd32;
 }
