@@ -21,6 +21,7 @@ p{
     font-size: 0.8em;
     color:#555555;
     background-color:#eee8aa;
+     font-weight:500;
 }
 #read{
 border-top:#e9967a 1px dotted;
@@ -29,7 +30,6 @@ border-top:#e9967a 1px dotted;
 .greeting{
     border-top: #e9967a 1px dotted;
     text-align: center;
-    font-weight:500;
 }
 #read:first-letter{
 font-size:1.25;
