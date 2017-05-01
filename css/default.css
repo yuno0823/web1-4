@@ -23,7 +23,7 @@ p{
     background-color:#eee8aa;
     font-weight:900;
 }
-span:first-letter{
+p:first-letter{
     font-size: 1.25em;
 }
 #read{
