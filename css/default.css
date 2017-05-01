@@ -9,10 +9,15 @@ h1{
 h2{
     font-size: 1.25em;
     color:#d2691e;
+    border:#e9967a 1px dotted;
+    border-left:#20b2aa 10px solid;
+    margin-bottom:0;
+    padding:5px 20px;
 }
 p{
     font-size: 0.8em;
     color:#da70d6;
+    background-color:#eee8aa;
 }
 li{
     font-size: 0.8em;
