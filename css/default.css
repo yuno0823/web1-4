@@ -19,6 +19,9 @@ p{
     color:#555555;
     background-color:#eee8aa;
 }
+#lead{
+border-top:#555555 1px dotted
+font-weight:100}
 li{
     font-size: 0.8em;
     color:#9acd32;
